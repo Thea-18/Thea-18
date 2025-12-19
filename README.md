@@ -1,16 +1,79 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<!--
-**Thea-18/Thea-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.youtube.com/channel/https://www.youtube.com/@keapapas1991/">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://facebook.com/https://www.facebook.com/kea.papas96/">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+   <a href="https://instagram.com/https://www.instagram.com/itz_keakitty/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Thea-18.Thea-18"  />
+</div>
+
+###
+
+<h1 align="center">Hello there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+<p align="left">
+I'm <strong>Kea Papas</strong> from <strong>Buhang Magallanes Agusan del Norte</strong>.<br><br>
+ 🔭 Education: <strong>Currently pursuing a Bachelor of Science in Information Technology.</strong> at <strong>Caraga State of University Cabadbaran Campus</strong>.<br>
+ 📚 Focusing: <strong>Into Web Development And UI/UX</strong>.<br>
+ ⚡ Location: <strong>Buhang, Magallanes Agusan del Norte.</strong>.
+</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="Laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="Php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Thea-18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left">📫 Contact</h3>
+
+- Email: papaskea71@gmail.com
+- Instagram: https://instagram.com/in/www.instagram.com/itz_keakitty
+- Facebook: https://facebook.com/https://www.facebook.com/kea.papas96
+- YouTube: https://www.youtube.com/channel/https://www.youtube.com/@keapapas1991
+
+###
+
+
+
