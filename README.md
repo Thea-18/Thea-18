@@ -1,8 +1,16 @@
-<div align="center">
-  <h2 style="color:#ffffff; background:#0d1117; padding:20px; border-radius:12px;">
-    Hello, welcome to my GitHub 👋
+<div align="center" style="position: relative;">
+  <img src="your-image-url.png" width="500" />
+  <h2 style="
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: bold;">
+    Hello, welcome to my GitHub
   </h2>
 </div>
+
 
 
 ###
