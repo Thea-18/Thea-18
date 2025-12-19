@@ -1,5 +1,5 @@
 <div align="center" style="position: relative;">
-  <img src="your-image-url.png" width="500" />
+  <img src="imagegithub-url.png" width="500" />
   <h2 style="
     position: absolute;
     top: 50%;
