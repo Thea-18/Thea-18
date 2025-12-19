@@ -1,15 +1,9 @@
-<div align="center" style="position: relative;">
-  <img src="imagegithub-url.png" width="500" />
-  <h2 style="
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-weight: bold;">
-    Hello, welcome to my GitHub
-  </h2>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <h1>Hello, welcome to my GitHub 👋</h1>
 </div>
+
+
 
 
 
