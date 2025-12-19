@@ -1,6 +1,9 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <h2 style="color:#ffffff; background:#0d1117; padding:20px; border-radius:12px;">
+    Hello, welcome to my GitHub 👋
+  </h2>
 </div>
+
 
 ###
 
